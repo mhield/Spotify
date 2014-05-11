@@ -16,7 +16,7 @@ session.on(
 	connection_state_listener)
 
 session.connection.state
-session.login('user', 'pass')
+session.login('mhield', 'retarded33')
 session.connection.state
 logged_in_event.wait()
 session.connection.state
