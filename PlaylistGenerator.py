@@ -95,8 +95,6 @@ PrintLinks(playlist)
 ## TODO
 # import grammar python package that will more accurately split out user inputs into more logical results
 # make sure same song isn't chosen twice if user input has the same two groups of sayings
-# remove ? / ! from spotify track result names to improve matching
-# check for 200 error
-# check that song results are returned or else replace with exception text
+# check for 200 error / improve user login logic
 # add MORE() if song isn't found in first pull
 # figure out why search in the Spotify app itself will return exact search results and PlaylistGenerator search will not
